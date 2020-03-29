@@ -1,1 +1,2 @@
 # projektpython
+Projekt nad którym będę pracował będzie grą.Napisze go w pythonie przy użyciu biblioteki turtle której cały czas uczę się z poradników internetowych.Mój pomysł to coś w rodzaju space soldiers .Jednak aby gra była unikalna będzie na niej 2 graczy po dwóch stronach planszy, ich taktyka będzie różna , będzie można strzelać do stworów poruszających się lewo prawo za mniejszą ilość punktów , lub do siebie za większą ilość , gracz ma za zadanie zdobyć wiecej punktów od przeciwnika.jednek z nich porusza się strzałkami , a drugi wsad.
